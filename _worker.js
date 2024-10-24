@@ -12,8 +12,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://010f4b15-7600-4194-9d74-2f4c1b0334b3@hk.fanjf001.sbs:47702?type=tcp&security=reality&pbk=SmxSZtaG3UGOMRj9_Ztq6BFYl5hjQYRRd8Wpic56Ym4&fp=chrome&sni=www.tesla.com&sid=31b3267b2b3211a1&spx=%2F&flow=xtls-rprx-vision#HK-yz6ba0p0
-vless://0cbc748a-d0bb-4b4b-986f-b43b03fd6b83@hk.fanjf001.sbs:38825?type=ws&path=%2Fabc&host=&security=tls&fp=&alpn=#hk-ws-5bnc8cbi
 tuic://7aea1161-ecdf-4bb0-b4da-d7d567a39f27:7aea1161-ecdf-4bb0-b4da-d7d567a39f27@hk2.fanjf001.sbs:36875?sni=hk2.fanjf001.sbs&alpn=h3&congestion_control=bbr#7aea1161-singbox_tuic
 hysteria2://7aea1161-ecdf-4bb0-b4da-d7d567a39f27@hk2.fanjf001.sbs:23833/?sni=hk2.fanjf001.sbs&alpn=h3&insecure=0#7aea1161-singbox_hysteria2
 vless://7ba159d6-fc2b-4533-95c5-a359a418b49f@hk2.fanjf001.sbs:14244?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=VwcChwqul7bdZIwML0LBMg-1vAEz0lIumPBvwuAGnUQ&sid=6ba85179e30d4fc2&type=tcp&headerType=none#7ba159d6-VLESS_Reality_Vision
