@@ -12,10 +12,10 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-tuic://7aea1161-ecdf-4bb0-b4da-d7d567a39f27:7aea1161-ecdf-4bb0-b4da-d7d567a39f27@hk2.fanjf001.sbs:36875?sni=hk2.fanjf001.sbs&alpn=h3&congestion_control=bbr#7aea1161-singbox_tuic
-hysteria2://7aea1161-ecdf-4bb0-b4da-d7d567a39f27@hk2.fanjf001.sbs:23833/?sni=hk2.fanjf001.sbs&alpn=h3&insecure=0#7aea1161-singbox_hysteria2
-vless://7ba159d6-fc2b-4533-95c5-a359a418b49f@hk2.fanjf001.sbs:14244?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=VwcChwqul7bdZIwML0LBMg-1vAEz0lIumPBvwuAGnUQ&sid=6ba85179e30d4fc2&type=tcp&headerType=none#7ba159d6-VLESS_Reality_Vision
-vless://7ba159d6-fc2b-4533-95c5-a359a418b49f@hk2.fanjf001.sbs:28070?encryption=none&security=reality&sni=www.tesla.com&fp=chrome&pbk=VwcChwqul7bdZIwML0LBMg-1vAEz0lIumPBvwuAGnUQ&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#7ba159d6-VLESS_Reality_gPRC
+hysteria2://8356e1fc-7362-418c-9de0-a6da96c3f7e6@hk3.fanjf001.sbs:23944/?sni=hk3.fanjf001.sbs&alpn=h3&insecure=0#8356e1fc-singbox_hysteria2
+vless://7e78b0cc-a3dc-4732-93ff-26a6ce546e5d@hk3.fanjf001.sbs:29948?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=urMJRIh45Skd7Oxj3ZVi_nrzR77OPDd5se_11W2bUlQ&sid=6ba85179e30d4fc2&type=tcp&headerType=none#7e78b0cc-VLESS_Reality_Vision
+vless://7e78b0cc-a3dc-4732-93ff-26a6ce546e5d@hk3.fanjf001.sbs:10471?encryption=none&security=reality&sni=www.tesla.com&fp=chrome&pbk=urMJRIh45Skd7Oxj3ZVi_nrzR77OPDd5se_11W2bUlQ&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#7e78b0cc-VLESS_Reality_gPRC
+tuic://8356e1fc-7362-418c-9de0-a6da96c3f7e6:8356e1fc-7362-418c-9de0-a6da96c3f7e6@hk3.fanjf001.sbs:10941?sni=hk3.fanjf001.sbs&alpn=h3&congestion_control=bbr#8356e1fc-singbox_tuic
 https://sub.xf.free.hr/auto
 `
 
