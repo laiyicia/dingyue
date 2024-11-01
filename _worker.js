@@ -12,15 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://8356e1fc-7362-418c-9de0-a6da96c3f7e6@hk3.fanjf001.sbs:23944/?sni=hk3.fanjf001.sbs&alpn=h3&insecure=0#8356e1fc-singbox_hysteria2
-vless://7e78b0cc-a3dc-4732-93ff-26a6ce546e5d@hk3.fanjf001.sbs:29948?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=urMJRIh45Skd7Oxj3ZVi_nrzR77OPDd5se_11W2bUlQ&sid=6ba85179e30d4fc2&type=tcp&headerType=none#7e78b0cc-VLESS_Reality_Vision
-vless://7e78b0cc-a3dc-4732-93ff-26a6ce546e5d@hk3.fanjf001.sbs:10471?encryption=none&security=reality&sni=www.tesla.com&fp=chrome&pbk=urMJRIh45Skd7Oxj3ZVi_nrzR77OPDd5se_11W2bUlQ&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#7e78b0cc-VLESS_Reality_gPRC
-tuic://8356e1fc-7362-418c-9de0-a6da96c3f7e6:8356e1fc-7362-418c-9de0-a6da96c3f7e6@hk3.fanjf001.sbs:10941?sni=hk3.fanjf001.sbs&alpn=h3&congestion_control=bbr#8356e1fc-singbox_tuic
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODY5YTJmMy03MTE0LTQwMGUtYTg3Ni01NjU0ZTA0M2ZkNWE=@svip.88de.hongxingdl.vip:59861#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODY5YTJmMy03MTE0LTQwMGUtYTg3Ni01NjU0ZTA0M2ZkNWE=@svip.88de.hongxingdl.vip:59861#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODY5YTJmMy03MTE0LTQwMGUtYTg3Ni01NjU0ZTA0M2ZkNWE=@svip.88de.hongxingdl.vip:59861#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODY5YTJmMy03MTE0LTQwMGUtYTg3Ni01NjU0ZTA0M2ZkNWE=@svip.88de.hongxingdl.vip:56697#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODY5YTJmMy03MTE0LTQwMGUtYTg3Ni01NjU0ZTA0M2ZkNWE=@svip.88de.hongxingdl.vip:56697#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE2
+vless://74b7880f-65ee-41f1-8d8a-ec9683d4a1f2@hk3.fanjf001.sbs:59851?headerType=none&type=tcp&encryption=none&fp=chrome&fp=chrome&pbk=VPMkFX5_7motD5yG_VUeXeL_ZfO1O5SyKNUWR68yQQA&sid=80ec888e&spx=%2F&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com#HK3-uf4x05ld
 https://sub.xf.free.hr/auto
 `
 
