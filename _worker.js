@@ -12,7 +12,6 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://74b7880f-65ee-41f1-8d8a-ec9683d4a1f2@hk3.fanjf001.sbs:59851?headerType=none&type=tcp&encryption=none&fp=chrome&fp=chrome&pbk=VPMkFX5_7motD5yG_VUeXeL_ZfO1O5SyKNUWR68yQQA&sid=80ec888e&spx=%2F&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com#HK3-uf4x05ld
 https://sub.xf.free.hr/auto
 `
 
