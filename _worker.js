@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://sub.xf.free.hr/auto
+vless://db7ec0e6-6586-444d-9750-58ccf16e829f@us.fanjf001.sbs:31572?type=tcp&security=reality&pbk=0Mcq1oErCWCzNKUxgE35ejew8_8FCxwOf6SNlDNOeWY&fp=chrome&sni=www.nvidia.com&sid=bcf730&spx=%2F&flow=xtls-rprx-vision#www.nvidia.com%2F-h4chmy0l
 `
 
 let urls = [];
